@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Omodo</title>
+        <link>https://github.com/poyi/Omodo-releases</link>
+        <description>Omodo update feed</description>
+        <language>en</language>
+            <item>
+                <title>Omodo v1.1</title>
+                <pubDate>Tue, 10 Mar 2026 15:10:43 -0700</pubDate>
+                <sparkle:version>1.1</sparkle:version>
+                <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v1.1/Omodo-1.1.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="sLriL45J/Iu3MCKmvIuoIWx06efETIapfybh0NCi2Cuq4JPdQBPnF8bKIwJm047dpxGm3TXgHi+bBmgALmUMDg=="
+                           length="6193307" />
+            </item>
+    </channel>
+</rss>
