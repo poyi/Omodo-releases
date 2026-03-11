@@ -15,5 +15,15 @@
                            sparkle:edSignature="sLriL45J/Iu3MCKmvIuoIWx06efETIapfybh0NCi2Cuq4JPdQBPnF8bKIwJm047dpxGm3TXgHi+bBmgALmUMDg=="
                            length="6193307" />
             </item>
-    </channel>
+            <item>
+                <title>Omodo v1.2</title>
+                <pubDate>Tue, 10 Mar 2026 17:17:50 -0700</pubDate>
+                <sparkle:version>1</sparkle:version>
+                <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v1.2/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="ZhXbXimgJ4N7J+5IfTRs0JL8Z0+RVQiGTFQtRwIJUoXY9FJcR7HZ3hRz6U3c9WwAObOlf3tlvGVnA+teB6NZDA=="
+                           length="5581189" />
+            </item>
+        </channel>
 </rss>
