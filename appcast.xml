@@ -35,5 +35,15 @@
                            sparkle:edSignature="lYIufrcnTjvnD4f24KqqBSV8+1L0r2/0kjyLeknKIeQgKR8dTy2qsPQ2hpDlngdKHBNR0T6DjxnpMF71iqtqCg=="
                            length="5592777" />
             </item>
+                <item>
+                <title>Omodo v1.4</title>
+                <pubDate>Tue, 10 Mar 2026 18:14:12 -0700</pubDate>
+                <sparkle:version>1.4</sparkle:version>
+                <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v1.4/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="99Ap5AV7feYEnHlOkp4bo+6u+CtRwGVRaAjhgGmNlUg2LTImIOmLXsTnm9FXh5id0pOrntzAde9jZNoNf5mnBQ=="
+                           length="5598365" />
+            </item>
         </channel>
 </rss>
