@@ -55,5 +55,16 @@
                            sparkle:edSignature="tFhIQ++i+/pC32vou9el4Lu763NZX+6C+k+3qWutIzyLGWJrAA27eaKdPXYJSR8TG3YyJLf+ZwjxaFibRYAEDg=="
                            length="5598484" />
             </item>
+                <item>
+                <title>Omodo v1.6</title>
+                <pubDate>Thu, 12 Mar 2026 17:16:37 -0700</pubDate>
+                <sparkle:version>1.6</sparkle:version>
+                <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+                <description><![CDATA[<ul><li>Retry failed or regenerate completed meeting summaries — no more lost recordings</li><li>Meeting History in Settings > Meeting shows all past recordings with status at a glance</li><li>Activity Log for meeting tasks links directly to the audio file and offers a one-click reprocess</li></ul>]]></description>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v1.6/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="jbs0lD5C5lcIDUe32otK7NQX6Lpw1iYBrjeCKewlrh7rXkpZwkT7T5Z/X2L95n6Ac4d3YDVRf7mWRWWU1itbCw=="
+                           length="6372879" />
+            </item>
         </channel>
 </rss>
