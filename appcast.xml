@@ -35,7 +35,7 @@
                            sparkle:edSignature="lYIufrcnTjvnD4f24KqqBSV8+1L0r2/0kjyLeknKIeQgKR8dTy2qsPQ2hpDlngdKHBNR0T6DjxnpMF71iqtqCg=="
                            length="5592777" />
             </item>
-                <item>
+            <item>
                 <title>Omodo v1.4</title>
                 <pubDate>Tue, 10 Mar 2026 18:14:12 -0700</pubDate>
                 <sparkle:version>1.4</sparkle:version>
@@ -45,7 +45,7 @@
                            sparkle:edSignature="99Ap5AV7feYEnHlOkp4bo+6u+CtRwGVRaAjhgGmNlUg2LTImIOmLXsTnm9FXh5id0pOrntzAde9jZNoNf5mnBQ=="
                            length="5598365" />
             </item>
-                <item>
+            <item>
                 <title>Omodo v1.5</title>
                 <pubDate>Tue, 10 Mar 2026 18:22:38 -0700</pubDate>
                 <sparkle:version>1.5</sparkle:version>
@@ -55,7 +55,7 @@
                            sparkle:edSignature="tFhIQ++i+/pC32vou9el4Lu763NZX+6C+k+3qWutIzyLGWJrAA27eaKdPXYJSR8TG3YyJLf+ZwjxaFibRYAEDg=="
                            length="5598484" />
             </item>
-                <item>
+            <item>
                 <title>Omodo v1.6</title>
                 <pubDate>Thu, 12 Mar 2026 17:16:37 -0700</pubDate>
                 <sparkle:version>1.6</sparkle:version>
@@ -66,18 +66,7 @@
                            sparkle:edSignature="jbs0lD5C5lcIDUe32otK7NQX6Lpw1iYBrjeCKewlrh7rXkpZwkT7T5Z/X2L95n6Ac4d3YDVRf7mWRWWU1itbCw=="
                            length="6372879" />
             </item>
-                <item>
-                <title>Omodo v1.7</title>
-                <pubDate>Fri, 13 Mar 2026 18:37:21 -0700</pubDate>
-                <sparkle:version>1.7</sparkle:version>
-                <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
-                <description><![CDATA[<ul><li>Smart clipboard: app-aware tab that surfaces items you've copied from or pasted into the current app</li><li>Tabbed clipboard panel with Smart, Recent, and Pinned views</li><li>Arrow key and Tab/Shift-Tab keyboard shortcuts for cycling clipboard tabs</li><li>Re-copied clipboard items now reflect the latest source app and timestamp</li><li>Dock right-click menu now lists all open windows for quick access</li><li>Ollama custom endpoint and selected models now persist reliably across app restarts</li></ul>]]></description>
-                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v1.7/Omodo.dmg"
-                           type="application/octet-stream"
-                           sparkle:edSignature="ZGeX7sOvNp3rss4cw2SMqtttVtAQcCM4EGZU6mNgkfsBO0gU2BmilbZpgi8SjBmYtgMQti+hsSEedF3FD9CjCA=="
-                           length="6736659" />
-            </item>
-                <item>
+            <item>
                 <title>Omodo v1.7</title>
                 <pubDate>Fri, 13 Mar 2026 18:54:43 -0700</pubDate>
                 <sparkle:version>1.7</sparkle:version>
