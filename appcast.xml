@@ -77,5 +77,16 @@
                            sparkle:edSignature="ZGeX7sOvNp3rss4cw2SMqtttVtAQcCM4EGZU6mNgkfsBO0gU2BmilbZpgi8SjBmYtgMQti+hsSEedF3FD9CjCA=="
                            length="6736659" />
             </item>
+                <item>
+                <title>Omodo v1.7</title>
+                <pubDate>Fri, 13 Mar 2026 18:54:43 -0700</pubDate>
+                <sparkle:version>1.7</sparkle:version>
+                <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+                <description><![CDATA[<ul><li>Smart clipboard: app-aware tab that surfaces items you've copied from or pasted into the current app</li><li>Tabbed clipboard panel with Smart, Recent, and Pinned views</li><li>Arrow key and Tab/Shift-Tab keyboard shortcuts for cycling clipboard tabs</li><li>Re-copied clipboard items now reflect the latest source app and timestamp</li><li>Dock right-click menu now lists all open windows for quick access</li><li>Ollama custom endpoint and selected models now persist reliably across app restarts</li></ul>]]></description>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v1.7/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="0UpFRMXVM2PtUiEVbMSxTqrEMUdYYqkrpWL6VNMOnqzlJJPWERGocbWwt5xywYfXBjOIjPhrP/3ry2GSVxuOAQ=="
+                           length="6736654" />
+            </item>
         </channel>
 </rss>
