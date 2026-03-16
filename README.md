@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Your Private AI Assistant That Works in the Background</strong><br/>
-  A local-first macOS menu bar app powered by Ollama. Nothing ever leaves your Mac.
+  A local-first macOS menu bar app with a built-in AI engine. Nothing ever leaves your Mac.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## What is Omodo?
 
-Omodo is a **privacy-focused AI assistant** for macOS that works entirely on your machine. It monitors your email, extracts action items, organizes your files, records meetings, and gives you a natural language chat interface to manage it all — using a locally-running LLM via [Ollama](https://ollama.com).
+Omodo is a **privacy-focused AI assistant** for macOS that works entirely on your machine. It monitors your email, extracts action items, organizes your files, records meetings, and gives you a natural language chat interface to manage it all — powered by a built-in AI engine or [Ollama](https://ollama.com).
 
 **Your data never leaves your Mac. Period.**
 
@@ -41,7 +41,7 @@ Omodo is a **privacy-focused AI assistant** for macOS that works entirely on you
 
 ## Privacy
 
-Omodo is **100% local**. All AI processing happens on your Mac via Ollama. The only network call is to `localhost:11434`. No cloud, no telemetry, no data collection.
+Omodo is **100% local**. All AI processing happens on your Mac — either through the built-in engine or Ollama. No cloud, no telemetry, no data collection.
 
 ## Requirements
 
@@ -49,7 +49,7 @@ Omodo is **100% local**. All AI processing happens on your Mac via Ollama. The o
 |---|---|
 | **Mac** | Apple Silicon (M1 or later) |
 | **macOS** | 14 Sonoma or later |
-| **LLM** | [Ollama](https://ollama.com) (free, open-source) |
+| **LLM** | Built-in (no setup needed), or [Ollama](https://ollama.com) for more model choices |
 
 ## Install
 
