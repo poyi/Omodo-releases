@@ -77,16 +77,5 @@
                            sparkle:edSignature="0UpFRMXVM2PtUiEVbMSxTqrEMUdYYqkrpWL6VNMOnqzlJJPWERGocbWwt5xywYfXBjOIjPhrP/3ry2GSVxuOAQ=="
                            length="6736654" />
             </item>
-                <item>
-                <title>Omodo v1.8</title>
-                <pubDate>Mon, 16 Mar 2026 09:33:34 -0700</pubDate>
-                <sparkle:version>1.8</sparkle:version>
-                <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
-                <description><![CDATA[<ul><li>Download and manage AI models directly from the app, in addition to the Ollama option</li><li>Smarter duplicate detection: similar emails about the same task no longer create duplicate reminders</li><li>One-click contact sync keeps contact details, items, and notes up to date</li><li>Completing or dismissing a task now automatically resolves related duplicates</li><li>Choose between light, dark, or system theme in Settings</li><li>Screen recording permission in Settings now reflects changes instantly — no app restart needed</li><li>Send Feedback added to the menu bar</li></ul>]]></description>
-                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v1.8/Omodo.dmg"
-                           type="application/octet-stream"
-                           sparkle:edSignature="NR0Cjv/bp9OtvgpvkYJh4uVhq2BVvuCfN+lv+hdetQ7N9tWEtH8AjMZ8bWzzg+K9AGDo3EBGMOL0opJ2ZxoQBQ=="
-                           length="17938065" />
-            </item>
         </channel>
 </rss>
