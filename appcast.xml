@@ -88,5 +88,16 @@
                            sparkle:edSignature="6G/hLYVWW061O2iMt3uuISADwQWvUnplmJgDNwEXQd0MYLGRUxPdM6/9o/6lPmtedsgTNNgZCiWQw1X7/qbfCQ=="
                            length="17935144" />
             </item>
+                <item>
+                <title>Omodo v1.9</title>
+                <pubDate>Tue, 17 Mar 2026 09:38:02 -0700</pubDate>
+                <sparkle:version>1.9</sparkle:version>
+                <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+                <description><![CDATA[<ul><li>Multi-Mac Sync: sync contacts, memories, skill settings, and processing history across Macs via a shared iCloud Drive folder</li><li>Choose any iCloud Drive folder for sync data — visible in Finder, accessible from all your Macs</li><li>Contact deletions now propagate across devices automatically</li><li>Meeting start reminders: get a notification before calendar events with tracked contacts, with a one-tap Start Recording button</li><li>Auto-stop idle recordings: meetings automatically stop when both audio sources go silent and no active calendar event is detected</li></ul>]]></description>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v1.9/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="uW/bD1IPmYLcyN0sqmTSJiIcCf77iqwtPFhbR8kLImmvWijmUfZOaHnHOJT286Pnk8TVojS8CycoXCWE/rq4Dw=="
+                           length="18042581" />
+            </item>
         </channel>
 </rss>
