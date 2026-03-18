@@ -101,14 +101,14 @@
             </item>
                 <item>
                 <title>Omodo v2.0</title>
-                <pubDate>Wed, 18 Mar 2026 11:06:08 -0700</pubDate>
-                <sparkle:version>1.9</sparkle:version>
+                <pubDate>Wed, 18 Mar 2026 11:21:40 -0700</pubDate>
+                <sparkle:version>2.0</sparkle:version>
                 <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
                 <description><![CDATA[<ul><li>Scanned PDF support: image-based PDFs are now rendered page-by-page and processed through the vision model, so scanned receipts and invoices are no longer silently skipped</li><li>Upgraded built-in vision models: Qwen3 VL 4B/8B replace Qwen2.5 VL, with significantly better OCR and document understanding</li><li>New DeepSeek OCR-2 model option: lightweight 1B OCR specialist for fast receipt and document text extraction</li><li>Backup & restore: create full snapshots of all app data and settings, and restore from a previous backup with one click</li><li>Transcribe audio files on disk in addition to live meeting recordings</li><li>EventKit events cache reduces redundant fetches when switching between contacts</li><li>Removed Prompts settings tab — custom prompts are now managed via the Data tab</li><li>Vision model migration: users on old Qwen2.5 VL models are automatically switched to the best available Qwen3 VL model</li></ul>]]></description>
                 <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v2.0/Omodo.dmg"
                            type="application/octet-stream"
-                           sparkle:edSignature="QK0gRvRhJagGTp7TcMK+RbdbGeTm7Qzpp13B+TGE38jfWe01S57QQNU/8mHqM70my1by6lNZvA1T2Oa2bbSGAw=="
-                           length="18243009" />
+                           sparkle:edSignature="3qdJB7GwHhhKGz0agqk/Axxlv1Or5UFuILboccGRJYRU8eVt26zKysNHOMmvwQ7DLPe9gFa3BKgNt7JiyGohBA=="
+                           length="18242979" />
             </item>
         </channel>
 </rss>
