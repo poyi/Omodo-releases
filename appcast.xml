@@ -121,5 +121,16 @@
                            sparkle:edSignature="3m68cX96LRIOXpZhqOvlUi64tGRatLFl0Y4F/uQpbHu4H5D3sAHnpDK3MQ2bLj/n6Emkz61gSfVdcnwNOrgBDg=="
                            length="18429298" />
             </item>
+                <item>
+                <title>Omodo v2.1.1</title>
+                <pubDate>Thu, 19 Mar 2026 15:32:17 -0700</pubDate>
+                <sparkle:version>2.1.1</sparkle:version>
+                <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+                <description><![CDATA[<ul><li>Fix crash on launch caused by SwiftData migration conflict with MonitoredFile model</li></ul>]]></description>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v2.1.1/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="VeVPh6tQ1JS7pvYPw90gQwJEX1pISkPH4MCPz0C0xaRmV1CnQ985aWEieDc6vBP61biNqc0XkzviqqswZF89DQ=="
+                           length="18428817" />
+            </item>
         </channel>
 </rss>
