@@ -110,16 +110,5 @@
                            sparkle:edSignature="3qdJB7GwHhhKGz0agqk/Axxlv1Or5UFuILboccGRJYRU8eVt26zKysNHOMmvwQ7DLPe9gFa3BKgNt7JiyGohBA=="
                            length="18242979" />
             </item>
-                <item>
-                <title>Omodo v2.1</title>
-                <pubDate>Thu, 19 Mar 2026 14:37:36 -0700</pubDate>
-                <sparkle:version>2.1</sparkle:version>
-                <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
-                <description><![CDATA[<ul><li>Reprocess button: reprocess any file directly from the Activity detail view with a single click</li><li>Subfolder context: auto-sort now uses LLM-generated subfolder descriptions for smarter file organization</li><li>Retroactive sort: when new subfolders are created, existing root-level files are automatically reconsidered for sorting</li><li>iCloud file auto-download: monitored folders on iCloud Drive now trigger downloads for evicted files so they can be processed</li><li>Receipt extraction accuracy: line item totals are validated against the subtotal, with a warning when items are missing</li><li>Reindex rebuilt from scratch: "Reindex All Files" now deletes all records and rediscovers files cleanly, eliminating duplicate entries</li><li>Duplicate file prevention: auto-sort file moves are now persisted immediately, and duplicate task enqueues are blocked</li><li>Removed unsupported DeepSeek OCR-2 from the built-in model catalog</li></ul>]]></description>
-                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v2.1/Omodo.dmg"
-                           type="application/octet-stream"
-                           sparkle:edSignature="6JoT1ynS6v2emuRUGuAqHsy4aO2RC33YUMY5zCiJ9sdz6xRIgYfl13aKQAuo2Kh/Xc06qktoHowMIkxexaNqAg=="
-                           length="18428761" />
-            </item>
         </channel>
 </rss>
