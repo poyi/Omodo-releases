@@ -110,5 +110,16 @@
                            sparkle:edSignature="3qdJB7GwHhhKGz0agqk/Axxlv1Or5UFuILboccGRJYRU8eVt26zKysNHOMmvwQ7DLPe9gFa3BKgNt7JiyGohBA=="
                            length="18242979" />
             </item>
+                <item>
+                <title>Omodo v2.1.2</title>
+                <pubDate>Thu, 19 Mar 2026 17:28:12 -0700</pubDate>
+                <sparkle:version>2.1.2</sparkle:version>
+                <sparkle:shortVersionString>2.1.2</sparkle:shortVersionString>
+                <description><![CDATA[<ul><li>Fix crash when processing large scanned PDFs or images (MLX vision model out-of-memory)</li><li>GPU memory safety: app checks available GPU memory before running AI models and skips gracefully if insufficient</li><li>On-demand model loading: AI models now load only when needed and unload after 3 minutes of inactivity, freeing up to 5 GB of RAM</li><li>New "Keep models loaded" option in Settings for users who prefer instant AI responses</li><li>Scanned PDF rendering optimized: smaller JPEG images instead of full-resolution PNG</li></ul>]]></description>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v2.1.2/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="s/jQFv6DzAswnIpEdzL0zeTmIAKIYvEPCkSDJ9gd6pBk47RQlYXrNjJwKZ/5mxHX/b9BEXRCJOiJ/dUVLgmuAw=="
+                           length="18435017" />
+            </item>
         </channel>
 </rss>
