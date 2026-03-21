@@ -121,5 +121,16 @@
                            sparkle:edSignature="VO4p/VOxqjswNc2/mhGfMpniXtxzkqf/8wCTvWh5bEW+NpxWciT4FE6MhqbNtTjB4Myv/h4hT20Y+7aNY70CDQ=="
                            length="18436903" />
             </item>
+                <item>
+                <title>Omodo v2.2</title>
+                <pubDate>Fri, 20 Mar 2026 18:09:31 -0700</pubDate>
+                <sparkle:version>2.2.0</sparkle:version>
+                <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+                <description><![CDATA[<ul><li>Faster AI responses: built-in models now cache conversation context, so follow-up messages and multi-turn chats respond significantly faster</li><li>Smarter PDF processing: scanned documents render at higher quality with 2x scale, improving OCR and receipt extraction accuracy</li><li>Larger image support: vision processing now handles images up to 8MB, so high-resolution scans and photos are no longer skipped</li><li>Browse subfolders in Files: new subfolder dropdown lets you filter files by subfolder within a monitored folder</li><li>Auto-select working model: if your selected AI model is missing or incomplete, the app automatically switches to the best available one</li><li>Download integrity check: incomplete model downloads from interrupted sessions are detected and cleaned up on startup</li><li>Fixed chat responses occasionally appearing in the wrong conversation</li><li>Fixed meeting auto-stop triggering during an active conversation when only one audio source paused briefly</li></ul>]]></description>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v2.2/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="qkwdhtCCdTbzFRTZlUY30ehhH1Lxh46SY5shJRajA+M6ZfALurughBdCQQjUgYQL5rbc3Av7uPx0fdkqdkLEDQ=="
+                           length="18492209" />
+            </item>
         </channel>
 </rss>
