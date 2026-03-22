@@ -132,5 +132,16 @@
                            sparkle:edSignature="qkwdhtCCdTbzFRTZlUY30ehhH1Lxh46SY5shJRajA+M6ZfALurughBdCQQjUgYQL5rbc3Av7uPx0fdkqdkLEDQ=="
                            length="18492209" />
             </item>
+                <item>
+                <title>Omodo v2.3</title>
+                <pubDate>Sat, 21 Mar 2026 21:12:47 -0700</pubDate>
+                <sparkle:version>2.3.0</sparkle:version>
+                <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
+                <description><![CDATA[<ul><li>Smart auto-complete: active reminders are now automatically completed when email context confirms the task is done</li><li>Redesigned receipt view: vendor info and line items are now separate sections for clearer organization</li><li>Inline line item editing: double-click any line item name to edit it directly in the table</li><li>Fixed Ollama vision model getting deselected after every app restart</li></ul>]]></description>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v2.3/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="k/ICYTjlzMrn1KZB86tfGNR9kOFG0AXC2oKdpjBYl3T4N0jxXDTHmDZ1eOIQv4KsCQd2n5gLmza41oEK2LMbDg=="
+                           length="18641673" />
+            </item>
         </channel>
 </rss>
