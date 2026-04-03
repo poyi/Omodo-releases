@@ -143,5 +143,16 @@
                            sparkle:edSignature="k/ICYTjlzMrn1KZB86tfGNR9kOFG0AXC2oKdpjBYl3T4N0jxXDTHmDZ1eOIQv4KsCQd2n5gLmza41oEK2LMbDg=="
                            length="18641673" />
             </item>
+                <item>
+                <title>Omodo v2.4</title>
+                <pubDate>Thu, 02 Apr 2026 19:29:43 -0700</pubDate>
+                <sparkle:version>2.4.0</sparkle:version>
+                <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
+                <description><![CDATA[<ul><li>Redesigned live meeting notes: event-driven updates appear faster with timestamps between sections, and notes accumulate across the entire meeting instead of being replaced</li><li>LLM warmup: meeting recordings preload the AI model so first notes generate sooner</li><li>iCloud sync now works for images: processed image metadata syncs between Macs (existing images are backfilled automatically)</li><li>Skill toggles now sync correctly on app update — features like live meeting notes and file renaming no longer need to be toggled off/on after updating</li><li>Activity timestamps now show the date alongside time for easier identification</li><li>Rule generation has a 30-second timeout with automatic fallback to a template rule</li><li>Clearer activity messages when extracted actions are skipped due to duplicate detection</li></ul>]]></description>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v2.4/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="Dpgm3E6FyTHqifA/DrfBlqcLJmPFa0qe8mxB25/KpZQ8EFYImIdFE7b/pWZvmlCsuab2PAOk1pNu8qtyEgetAQ=="
+                           length="18672622" />
+            </item>
         </channel>
 </rss>
