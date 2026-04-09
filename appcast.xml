@@ -165,5 +165,16 @@
                            sparkle:edSignature="RCgkRZcA5R2U7fwYTHPGEN149X8TcXr+kzi6X+dzqzHa1bt8jPOQkyclCNaGS2Ne6XcwcG/kxHLMp+v+m4ZxDg=="
                            length="18718129" />
             </item>
+                <item>
+                <title>Omodo v2.5.1</title>
+                <pubDate>Thu, 09 Apr 2026 07:38:11 -0700</pubDate>
+                <sparkle:version>2.5.1</sparkle:version>
+                <sparkle:shortVersionString>2.5.1</sparkle:shortVersionString>
+                <description><![CDATA[<ul><li>Fixed app hanging on launch when iCloud Drive file provider holds a lock</li></ul>]]></description>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v2.5.1/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="Ty7K8eNRTm50kF2hUtYUyGlmf3llC8DQ7ocZHS3Uejn1+ofepNgccaleHqTFk/nlx6tm6g0ShtI6f2kL7QOMAQ=="
+                           length="18783051" />
+            </item>
         </channel>
 </rss>
