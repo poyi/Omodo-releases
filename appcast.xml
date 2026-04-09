@@ -154,5 +154,16 @@
                            sparkle:edSignature="Dpgm3E6FyTHqifA/DrfBlqcLJmPFa0qe8mxB25/KpZQ8EFYImIdFE7b/pWZvmlCsuab2PAOk1pNu8qtyEgetAQ=="
                            length="18672622" />
             </item>
+                <item>
+                <title>Omodo v2.5</title>
+                <pubDate>Wed, 08 Apr 2026 21:39:33 -0700</pubDate>
+                <sparkle:version>2.5.0</sparkle:version>
+                <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+                <description><![CDATA[<ul><li>Mobile companion: chat with Omodo from your iPhone over local Wi-Fi — uses the same AI tools as the desktop app (reminders, calendar, contacts, files)</li><li>Recording indicator: a floating widget near the notch shows recording status with timer, and expands on hover for quick stop/pause controls</li><li>Gemma 4 E2B: new ultra-fast built-in model option for quick queries on 8GB devices</li><li>Fixed crashes caused by MLX KV cache (now disabled with automatic migration for existing users)</li><li>Fixed wrong model being used when switching LLM backends while a task is queued</li><li>Fixed memory not being released when switching from built-in to Ollama backend</li><li>Live meeting notes engine rewritten for reliability — no longer crashes mid-recording</li></ul>]]></description>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v2.5/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="RCgkRZcA5R2U7fwYTHPGEN149X8TcXr+kzi6X+dzqzHa1bt8jPOQkyclCNaGS2Ne6XcwcG/kxHLMp+v+m4ZxDg=="
+                           length="18718129" />
+            </item>
         </channel>
 </rss>
