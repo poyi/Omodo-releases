@@ -176,5 +176,16 @@
                            sparkle:edSignature="Ty7K8eNRTm50kF2hUtYUyGlmf3llC8DQ7ocZHS3Uejn1+ofepNgccaleHqTFk/nlx6tm6g0ShtI6f2kL7QOMAQ=="
                            length="18783051" />
             </item>
+                <item>
+                <title>Omodo v2.5.2</title>
+                <pubDate>Thu, 09 Apr 2026 12:41:57 -0700</pubDate>
+                <sparkle:version>2.5.2</sparkle:version>
+                <sparkle:shortVersionString>2.5.2</sparkle:shortVersionString>
+                <description><![CDATA[<ul><li>Fixed app freezing when monitored folders are in iCloud Drive</li></ul>]]></description>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v2.5.2/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="3y5C2H9tu9tVfDOUj8DnQ/zsc69P7zWvA1dyQX3GJBaFmSMHOlTuDOzM5z7iCJ6vtkW24EMMUh8ArO2Ztf3lCA=="
+                           length="18778998" />
+            </item>
         </channel>
 </rss>
