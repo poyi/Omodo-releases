@@ -187,5 +187,16 @@
                            sparkle:edSignature="3y5C2H9tu9tVfDOUj8DnQ/zsc69P7zWvA1dyQX3GJBaFmSMHOlTuDOzM5z7iCJ6vtkW24EMMUh8ArO2Ztf3lCA=="
                            length="18778998" />
             </item>
+                <item>
+                <title>Omodo v2.5.3</title>
+                <pubDate>Fri, 10 Apr 2026 20:42:27 -0700</pubDate>
+                <sparkle:version>2.5.3</sparkle:version>
+                <sparkle:shortVersionString>2.5.3</sparkle:shortVersionString>
+                <description><![CDATA[<ul><li>Recording island now overlaps the menu bar on notch displays, blending seamlessly with the notch</li><li>Hover state stays expanded for 1 second after mouse exit to prevent flickering</li><li>Fixed duplicate email processing tasks when a second scan runs before the first completes</li><li>Fixed meeting summary reprocess button not appearing in activity detail</li><li>Added 10-minute timeout for Ollama requests to prevent tasks from hanging indefinitely</li></ul>]]></description>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v2.5.3/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="YBtctsCHG6TUccfuQ9syMXU1LpOyVcBJqlRgZJ1Gme2mrRA1TpPaELurVZmH4j/tV+uLzp9DMdhiPwZur4LyBQ=="
+                           length="18812439" />
+            </item>
         </channel>
 </rss>
