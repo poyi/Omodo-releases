@@ -198,5 +198,16 @@
                            sparkle:edSignature="YBtctsCHG6TUccfuQ9syMXU1LpOyVcBJqlRgZJ1Gme2mrRA1TpPaELurVZmH4j/tV+uLzp9DMdhiPwZur4LyBQ=="
                            length="18812439" />
             </item>
+                <item>
+                <title>Omodo v2.6</title>
+                <pubDate>Thu, 16 Apr 2026 22:01:21 -0700</pubDate>
+                <sparkle:version>2.6</sparkle:version>
+                <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
+                <description><![CDATA[<ul><li>Unified smart search: all sources (emails, files, notes, reminders, events, clipboard, meetings) searchable from a single `search_all` tool with hybrid keyword + semantic matching</li><li>Built-in vector search: on-device sentence embeddings via MLX (all-MiniLM-L6-v2) — works without Ollama</li><li>Auto-retrieval: relevant context automatically injected into chat before the AI responds, answering most questions without any tool calls</li><li>Full-text search with stemming: "invoice" now matches "invoices", "dental" matches "dentist"</li><li>Fixed live meeting notes getting stuck at "Generating notes..." when recording ends during processing</li><li>Fixed live meeting notes blocked behind other AI tasks — now runs immediately</li><li>Fixed ghost spinner persisting in menu bar after AI tasks complete</li><li>Fixed HTML tags appearing in chat responses from contact memory</li></ul>]]></description>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v2.6/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="oBe6maoQzeQFYTEN1KMyQyoFDDPV+9ZKDG+TPMRqIn1gmFNDw3LevHhj7GuXgl+Ku82mmsTvlPqj9+5Xxo/sBA=="
+                           length="18999711" />
+            </item>
         </channel>
 </rss>
