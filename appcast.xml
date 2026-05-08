@@ -209,5 +209,16 @@
                            sparkle:edSignature="oBe6maoQzeQFYTEN1KMyQyoFDDPV+9ZKDG+TPMRqIn1gmFNDw3LevHhj7GuXgl+Ku82mmsTvlPqj9+5Xxo/sBA=="
                            length="18999711" />
             </item>
+                <item>
+                <title>Omodo v2.7</title>
+                <pubDate>Thu, 07 May 2026 22:38:31 -0700</pubDate>
+                <sparkle:version>2.7</sparkle:version>
+                <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
+                <description><![CDATA[<ul><li>Memory pressure management: periodic background sweep frees memory from idle services, reducing long-session RAM usage</li><li>Clipboard items are now indexed into RAG search, so you can find copied text via chat</li><li>Fixed activity view task rows stuck in "running" state after completion</li></ul>]]></description>
+                <enclosure url="https://github.com/poyi/Omodo-releases/releases/download/v2.7/Omodo.dmg"
+                           type="application/octet-stream"
+                           sparkle:edSignature="D6q05YsmIgMK1Do5twFv4H4sEHwiklGVukOBIROGXVLWy78+Hz1s7+sTMhDeYOdbaEsQ/wkcKZlM+m+WRnjEDg=="
+                           length="19019150" />
+            </item>
         </channel>
 </rss>
